@@ -1,4 +1,4 @@
-# AI Concepts in Plain Language
+# AI Glossary in Plain Language
 
 This glossary is a comprehensive knowledge base that aims to make Artificial Intelligence (AI) concepts accessible and understandable to a wide audience, including developers, system owners, buyers, and users. By providing clear explanations of AI terminology and focusing on responsible AI development, it promotes a broader understanding of AI among both technical and non-technical individuals.
 

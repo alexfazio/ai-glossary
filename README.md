@@ -6,7 +6,7 @@ Covering essential topics such as machine learning, deep learning, natural langu
 
 ####  Contributions :raising_hand:
 
-We sincerely welcome and appreciate contributions :pray: to ensure this knowledge base remains up-to-date. If you have a link or reference you believe should be included, please create a pull request. Alternatively, you can open an issue if you find that method easier.
+We sincerely welcome and appreciate contributions :pray: to ensure this knowledge base remains up-to-date. If you have a link or reference you believe should be included, please create a pull request. Alternatively, you can [open an issue](https://github.com/alexfazio/ai-glossary/issues/new/choose) if you find that method easier.
 
 #### Who is behind :construction_worker:
 

@@ -1,5 +1,8 @@
 ---
 share: true
+test: test
+tags:
+  - test
 ---
 
 

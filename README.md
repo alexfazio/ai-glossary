@@ -10,4 +10,6 @@ We sincerely welcome and appreciate contributions :pray: to ensure this knowledg
 
 #### Who is behind :construction_worker:
 
-The AI Glossary repository is maintained by the [Alex Fazio](https://www.linkedin.com/in/alxfazio/) who is an British-Italian Creative Technologist. Alex is the founder of [AI Garden](https://www.linkedin.com/company/100216986), a network of independent Italian research and technology organisations.
+The AI Glossary repository is maintained by the  who is an British-Italian Creative Technologist. Alex is the founder of , a network of independent Italian research and technology organisations.
+
+The AI Glossary repository is maintained by [Alex Fazio](https://www.linkedin.com/in/alxfazio/), a British-Italian Creative Technologist. Alex is the founder of [AI Garden](https://www.linkedin.com/company/100216986), a network of independent Italian research and technology organizations.

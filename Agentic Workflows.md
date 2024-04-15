@@ -17,14 +17,11 @@ Agentic workflows refer to a new way of interacting with large language models (
 > — Andrew Ng, Co-founder of Google Brain and Former Chief Scientist at Baidu [^2]
 
 Agentic workflows, like in programming can abide to different [Agentic Al Design Patterns](./Agentic%20Al%20Design%20Patterns.md).
-
-![Agentic Al Design Patterns](./Agentic%20Al%20Design%20Patterns.md)
 ### Agentic Workflows Tools
 - Programming frameworks for agentic AI.
 	- [Microsoft Autogen](https://github.com/microsoft/autogen)
 	- [CrewAI](https://github.com/joaomdmoura/crewai)
 - [ChatDev](https://github.com/OpenBMB/ChatDev)
-
 ### Resources
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sal78ACtGTc?si=H4mU6MDkj6tAGspu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

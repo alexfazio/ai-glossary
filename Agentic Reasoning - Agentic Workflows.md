@@ -18,5 +18,10 @@ Here are some popular design patterns for agentic workflows:
 - Multi-agent collaboration: An LLM can be prompted to collaborate with other LLMs, each playing a different role. For example, one LLM could act as a coder, while another acts as a reviewer.
 - Multi-tool use: An LLM can be combined with other tools to achieve a goal. For example, an LLM could be prompted to use a web search engine to find information, then use that information to complete a task.
 
+### Agentic Workflows Tools
+- Programming frameworks for agentic AI.
+	- [Microsoft Autogen](https://github.com/microsoft/autogen)
+	- [CrewAI](https://github.com/joaomdmoura/crewai)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sal78ACtGTc?si=H4mU6MDkj6tAGspu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

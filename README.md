@@ -1,8 +1,8 @@
-# AI Glossary in Plain Language
+# The A to Z of AI (in Simple Terms)
 
 This glossary is a comprehensive knowledge base that aims to make Artificial Intelligence (AI) concepts accessible and understandable to a wide audience. By providing clear explanations of AI terminology, it promotes a broader understanding of AI among both technical and non-technical individuals.
 
-Covering essential topics such as machine learning, deep learning, natural language processing, explainability, fairness, and ethical considerations, AI Glossary in Plain Language serves as a solid foundation for anyone interested in understanding and engaging with this rapidly evolving field. By bridging the gap between technical expertise and general understanding, this glossary contributes to the responsible development and application of AI across various domains.
+Covering essential topics such as machine learning, deep learning, natural language processing, explainability, fairness, and ethical considerations, The A to Z of AI serves as a solid foundation for anyone interested in understanding and engaging with this rapidly evolving field. By bridging the gap between technical expertise and general understanding, this glossary contributes to the responsible development and application of AI across various domains.
 
 ####  Contributions :raising_hand:
 
@@ -10,7 +10,7 @@ We sincerely welcome and appreciate contributions :pray: to ensure this knowledg
 
 #### Who is behind :construction_worker:
 
-The AI Glossary repository is maintained by [Alex Fazio](https://www.linkedin.com/in/alxfazio/), a British-Italian Creative Technologist. Alex is the founder of [AI Garden](https://www.linkedin.com/company/100216986), a network of independent Italian research and technology organizations.
+The The A to Z of AI repository is maintained by [Alex Fazio](https://www.linkedin.com/in/alxfazio/), a British-Italian Creative Technologist. Alex is the founder of [AI Garden](https://www.linkedin.com/company/100216986), a network of independent Italian research and technology organizations.
 
 #### Style Guide 🦋
 

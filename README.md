@@ -1,5 +1,8 @@
 # The A to Z of AI (in Simple Terms)
 
+![16-04-2024_04-12-52](https://github.com/alexfazio/ai-glossary/assets/34505954/3807c10f-64c2-4326-85d9-c68e62b28404)
+
+
 This glossary is a comprehensive knowledge base that aims to make Artificial Intelligence (AI) concepts accessible and understandable to a wide audience. By providing clear explanations of AI terminology, it promotes a broader understanding of AI among both technical and non-technical individuals.
 
 Covering essential topics such as machine learning, deep learning, natural language processing, explainability, fairness, and ethical considerations, The A to Z of AI serves as a solid foundation for anyone interested in understanding and engaging with this rapidly evolving field. By bridging the gap between technical expertise and general understanding, this glossary contributes to the responsible development and application of AI across various domains.

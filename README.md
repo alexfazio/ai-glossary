@@ -31,7 +31,7 @@ Together, we can create the most valuable and accessible AI resource on GitHub. 
 
 The The A to Z of AI repository is maintained by [Alex Fazio](https://www.linkedin.com/in/alxfazio/), a British-Italian Creative Technologist. Alex is the founder of [AI Garden](https://www.linkedin.com/company/100216986), a network of independent Italian research and technology organizations.
 
-### Style Guide 🦋
+### Style Guide ✒️
 
 Each entry in the glossary MUST include the following at a minimum:
 

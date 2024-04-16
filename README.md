@@ -3,9 +3,13 @@
 <img width="460" height="300" src="https://github.com/alexfazio/ai-glossary/assets/34505954/db057d30-1380-4c45-804d-67bca8bc9a73.jpg">
 </p>
 
-This glossary is a comprehensive knowledge base that aims to make Artificial Intelligence (AI) concepts accessible and understandable to a wide audience. By providing clear explanations of AI terminology, it promotes a broader understanding of AI among **both technical and non-technical individuals**.
+This glossary is a comprehensive knowledge base that aims to make Artificial Intelligence (AI) concepts accessible and understandable to a wide audience. By providing clear explanations of AI terminology, it promotes a broader understanding of AI among both technical and non-technical individuals.
 
 Covering essential topics such as machine learning, deep learning, natural language processing, explainability, fairness, and ethical considerations, The A to Z of AI serves as a solid foundation for anyone interested in understanding and engaging with this rapidly evolving field. By bridging the gap between technical expertise and general understanding, this glossary contributes to the responsible development and application of AI across various domains.
+
+The Open Glossary is governed as an open source project using a transparent and meritocratic process. Anybody can make additions, clarifications and suggestions by raising a GitHub issue or editing a branch and issuing a pull request. Each issue or pull request is evaluated by the community for inclusion. 
+
+The glossary is freely licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA-4.0)](https://creativecommons.org/licenses/by-sa/4.0/), in order to encourage use and adoption. Code contributions to the project, such as scripts to build the crosslinks into the markdown file as well as scripts to produce a professional-looking PDF, are licensed under the [Apache License, version 2.0 (Apache-2.0)](https://www.apache.org/licenses/LICENSE-2.0.html). These licenses are officially recorded in the project's [LICENSE](./LICENSE) file.
 
 ####  Contributions :raising_hand:
 

@@ -1,7 +1,7 @@
 # The A to Z of AI (in Simple Terms)
-
-![16-04-2024_04-12-52](https://github.com/alexfazio/ai-glossary/assets/34505954/3807c10f-64c2-4326-85d9-c68e62b28404)
-
+<p align="center">
+<img width="460" height="300" src="https://github.com/alexfazio/ai-glossary/assets/34505954/db057d30-1380-4c45-804d-67bca8bc9a73.jpg">
+</p>
 
 This glossary is a comprehensive knowledge base that aims to make Artificial Intelligence (AI) concepts accessible and understandable to a wide audience. By providing clear explanations of AI terminology, it promotes a broader understanding of AI among both technical and non-technical individuals.
 

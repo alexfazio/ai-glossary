@@ -1,4 +1,4 @@
-# The A to Z of AI (in Simple Terms)
+# The A to Z of AI
 <p align="center">
 <img width="460" height="300" src="https://github.com/alexfazio/ai-glossary/assets/34505954/db057d30-1380-4c45-804d-67bca8bc9a73.jpg">
 </p>

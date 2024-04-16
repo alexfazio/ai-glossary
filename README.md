@@ -2,7 +2,7 @@
 ### AI terms, from “Alignment” to “Zero-Shot Prompting”, explained in plain English
 
 <p align="center">
-<img width="460" height="300" src="https://github.com/alexfazio/ai-glossary/assets/34505954/db057d30-1380-4c45-804d-67bca8bc9a73.jpg">
+  <img width="460" height="300" src="https://github.com/alexfazio/ai-glossary/assets/34505954/db057d30-1380-4c45-804d-67bca8bc9a73.jpg">
 </p>
 
 This glossary is a knowledge base that aims to make Artificial Intelligence (AI) concepts accessible and understandable to a wide audience. 🌟 Our mission is to break down complex AI concepts and make them understandable for everyone, regardless of their technical background. 🎓💡

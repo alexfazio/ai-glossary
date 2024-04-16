@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-RLHF is a method used to reduce bias in large language models. It works by allowing human testers to guide the AI model towards producing the type of text output they indicate they prefer. The use of the ratings given by human testers guides the improvement of AI models. [^3][^5]. 
+RLHF is a method used to reduce bias in large language models. It enables the AI to learn from human preferences. It works by allowing human testers to guide the AI model towards producing the type of text output they indicate they prefer. The use of the ratings given by human testers guides the improvement of AI models. [^3][^5][^6]. 
 
 ChatGPT was trained  using a RLHF. It is often said that RLHF is the secret ingredient of ChatGPT. The basic idea is to take a large language model with a tendency to spit out anything it wants—in this case, GPT-3.5—and tune it by teaching it what kinds of responses human users actually prefer. [^1]
 
@@ -9,7 +9,7 @@ OpenAI reduced the amount of misinformation and offensive text that GPT-3 produc
 
  [OpenAI](https://openai.com/research/instruction-following), [Google](https://www.deepmind.com/blog/building-safer-dialogue-agents), [Anthropic](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf), and other companies all use the technique. After a chatbot has processed massive amounts of text, human feedback helps fine-tune it. [^5]
   
-RLHF allows the AI to learn from human preferences. To apply RLHF, companies hire large teams of contractors to look at the responses of their AI models and rate them as “good” or “bad”. By analysing enough responses, the model becomes attuned to those judgments, and filters its responses accordingly. This basic process works to refine an AI’s responses at a superficial level. But the method is primitive, according to [Dario Amodei](../Dario%20Amodei.md), who helped develop it while previously working at OpenAI. “It’s . . . not very accurate or targeted, you don’t know why you’re getting the responses you’re getting [and] there’s lots of noise in that process,” he said. [^6]
+To apply RLHF, companies hire large teams of contractors to look at the responses of their AI models and rate them as “good” or “bad”. By analysing enough responses, the model becomes attuned to those judgments, and filters its responses accordingly. This basic process works to refine an AI’s responses at a superficial level. But the method is primitive, according to [Dario Amodei](../Dario%20Amodei.md), who helped develop it while previously working at OpenAI. “It’s . . . not very accurate or targeted, you don’t know why you’re getting the responses you’re getting [and] there’s lots of noise in that process,” he said. [^6]
 
 ### Footnotes
 

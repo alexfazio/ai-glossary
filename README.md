@@ -22,7 +22,7 @@ In this repository, you'll find:
 We believe in the power of open-source collaboration and welcome contributions from the AI community. Here's how you can help:
 
 1. 🐛 Found an error or outdated information? [Open an issue](https://github.com/alexfazio/ai-glossary/issues/new/choose) and let us know!
-2. ✨ Have a new term or source to add? [Submit a pull request](https://github.com/alexfazio/ai-glossary/compare) with your proposed changes. Alternatively, you can [open an issue](https://github.com/alexfazio/ai-glossary/issues/new/choose) or contact [Alex](https://x.com/alxfazio) directly if you find that method easier. 
+2. ✨ Have a new term or source to add? [Submit a pull request](https://github.com/alexfazio/ai-glossary/compare](https://github.com/alexfazio/ai-glossary/pulls) with your proposed changes. Alternatively, you can [open an issue](https://github.com/alexfazio/ai-glossary/issues/new/choose) or contact [Alex](https://x.com/alxfazio) directly if you find that method easier. 
 3. 🎨 Want to improve an existing entry with visuals, code, or equations? We'd love to see your enhancements!
 
 Together, we can create the most valuable and accessible AI resource on GitHub. 💪

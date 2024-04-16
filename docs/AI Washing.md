@@ -11,7 +11,7 @@ Examples of companies that have failed to mention humans pulling the levers behi
 
 [Pseudo AI](https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/) or “AI washing” was widespread even before the recent generative AI boom.
 
-This "AI washing" threatens to overinflate expectations for the technology, undermining public trust and potentially setting up the booming field for a backlash.
+This "AI washing" threatens to overinflated expectations for the technology, undermining public trust and potentially setting up the booming field for a backlash.
 ### Resources
 - https://www.axios.com/2019/11/16/ai-washing-hidden-people
 

@@ -11,3 +11,18 @@ We sincerely welcome and appreciate contributions :pray: to ensure this knowledg
 #### Who is behind :construction_worker:
 
 The AI Glossary repository is maintained by [Alex Fazio](https://www.linkedin.com/in/alxfazio/), a British-Italian Creative Technologist. Alex is the founder of [AI Garden](https://www.linkedin.com/company/100216986), a network of independent Italian research and technology organizations.
+
+### Style Guide
+
+Each entry in the glossary MUST include the following at a minimum:
+
+1. **Concise explanation** - as short as possible, but no shorter
+2. **Citations** - Papers, Tutorials, etc.
+
+Excellent entries will also include:
+
+1. **Visuals** - diagrams, charts, animations, images
+2. **Code** - python/numpy snippets, classes, or functions
+3. **Equations** - Formatted with Latex
+
+The goal of the glossary is to present content in the most accessible way possible, with a heavy emphasis on visuals and interactive diagrams. That said, in the spirit of rapid prototyping, it's okay to to submit a "rough draft" without visuals or code. We expect other readers will enhance your submission over time.

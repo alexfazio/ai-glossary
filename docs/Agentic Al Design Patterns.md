@@ -1,4 +1,4 @@
-[Agentic Workflows](./Agentic%20Reasoning%20-%20Agentic%20Workflows.md), like in programming can abide to different design patterns.
+[Agentic Workflows](./Agentic%20Reasoning.md), like in programming can abide to different design patterns.
 
 Here are some popular design patterns for agentic workflows:
 

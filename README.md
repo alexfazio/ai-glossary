@@ -1,4 +1,6 @@
-# The A to Z of AI: Demystifying Artificial Intelligence
+# The A to Z of AI
+### AI terms, from “Alignment” to “Zero-Shot Prompting”, explained in plain English
+
 <p align="center">
 <img width="460" height="300" src="https://github.com/alexfazio/ai-glossary/assets/34505954/db057d30-1380-4c45-804d-67bca8bc9a73.jpg">
 </p>

@@ -12,9 +12,14 @@ Three things stand out from the current visions for Artificial General Intellige
 
 Artificial general intelligence (AGI) – often referred to as "strong AI," "full AI," "human-level AI" or "general intelligent action" – represents a significant future leap in the field of artificial intelligence. Unlike [Narrow AI](../Narrow%20AI.md), which is tailored for specific tasks, such as [detecting product flaws](https://techcrunch.com/2024/03/12/axion-rays-ai-attempts-to-detect-product-flaws-to-prevent-recalls/), [summarizing the news](https://techcrunch.com/2024/02/29/former-twitter-engineers-are-building-particle-an-ai-powered-news-reader/), or [building you a website](https://techcrunch.com/2024/02/22/10web-armenia/), AGI will be able to perform a broad spectrum of cognitive tasks at or above human levels. [^1]
 
+## Ethical Concerns
+
 The concept raises existential questions about humanity's role in and control of a future where machines can outthink, outlearn and outperform humans in virtually every domain. [^1]
 
 The core of this concern lies in the unpredictability of AGI's decision-making processes and objectives, which might not align with human values or priorities (a concept [explored in-depth in science fiction since at least the 1940s](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)). There's concern that once AGI reaches a certain level of autonomy and capability, it might become impossible to contain or control, leading to scenarios where its actions cannot be predicted or reversed. [^1]
+
+At the extreme, the so-called "doomers" argue there is a real risk of AGI emerging spontaneously from current research and that this could be a threat to humanity. They call for urgent government action. Some of this comes from self-interested companies seeking
+barriers to competition ("This is very dangerous and we are building it as fast as possible, but don't let anyone else do it"), but plenty of it is sincere. [^12]
 
 OpenAI, the research organization behind ChatGPT, has acknowledged that the development of Artificial General Intelligence (AGI) and superintelligence could potentially replace human labor. According to their website, AGI is defined as a system that surpasses human performance in most economically valuable work. And this is just AGI, not even considering superintelligence ([ASI](../ASI%20(Artificial%20Superintelligence).md)). [^2]
 
@@ -26,11 +31,15 @@ While the latest advances in LLMs such as Claude 3 continue to amaze, hardly any
 
 AI expert Gary Marcus [offered](https://garymarcus.substack.com/p/dear-elon-musk-here-are-five-things) this AGI definition: “A shorthand for any intelligence … that is flexible and general, with resourcefulness and reliability comparable to (or beyond) human intelligence.” If nothing else, the hallucinations that still plague today’s LLM systems would not qualify as being dependable. [^6]
 
-AGI requires systems that can understand and learn from their environments in a generalized way, have self-awareness and apply reasoning across diverse domains. While LLM models like Claude excel in specific tasks, AGI needs a level of flexibility, adaptability and understanding that it and other current models have not yet achieved. [^6]
+AGI requires systems that can understand and learn from their environments in a generalised way, have self-awareness and apply reasoning across diverse domains. While LLM models like Claude excel in specific tasks, AGI needs a level of flexibility, adaptability and understanding that it and other current models have not yet achieved. [^6]
+
+## Predictions
 
 Based on deep learning, it might never be possible for LLMs to ever achieve AGI. That is the view from researchers at Rand, who [state](https://www.rand.org/pubs/commentary/2024/02/why-artificial-general-intelligence-lies-beyond-deep.html) that these systems “may fail when faced with unforeseen challenges (such as optimized just-in-time supply systems in the face of COVID-19).” They conclude in a VentureBeat [article](https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/) that deep learning has been successful in many applications, but has drawbacks for realizing AGI. [^6]
 
 Ben Goertzel, a computer scientist and CEO of Singularity NET, [opined](https://www.livescience.com/technology/artificial-intelligence/ai-agi-singularity-in-2027-artificial-super-intelligence-sooner-than-we-think-ben-goertzel) at the recent Beneficial AGI Summit that AGI is within reach, perhaps as early as 2027. This timeline is consistent with statements from Nvidia CEO Jensen Huang who [said](https://www.thestreet.com/technology/nvidia-ceo-jensen-huang-artificial-general-intelligence) AGI could be achieved within 5 years, depending on the exact definition. [^6]
+  
+[Demis Hassabis](../Demis%20Hassabis.md) a computer scientist and CEO of Google Deepmind said that a few more critical breakthroughs were needed before AGI was reached. But he added: “I wouldn’t be surprised if it happened in the next decade. I’m not saying it’s definitely going to happen but I wouldn’t be surprised. You could say about a 50 per cent chance. And that timeline hasn’t changed much since the start of DeepMind.” [^11]
 
 ### Footnotes
 
@@ -43,3 +52,7 @@ Ben Goertzel, a computer scientist and CEO of Singularity NET, [opined](https:/
 [^8]: https://www.economist.com/1843/2019/03/01/deepmind-and-google-the-battle-to-control-artificial-intelligencehttps://www.economist.com/the-economist-explains/2024/03/28/how-to-define-artificial-general-intelligence
 [^9]: https://www.economist.com/business/2024/01/17/the-bosses-of-openai-and-microsoft-talk-to-the-economist
 [^10]: https://www.economist.com/science-and-technology/2023/04/19/large-language-models-ability-to-generate-text-also-lets-them-plan-and-reason
+[^11]: https://www.ft.com/content/774901e5-e831-4e0b-b0a1-e4b5b0032fb8
+
+https://www.ft.com/content/1d1cb2b3-391c-4dc8-ba5b-fedd379b7fb0
+[^12]: https://www.ft.com/content/4cecce94-48a6-4eba-b914-dd23d1e11ac9

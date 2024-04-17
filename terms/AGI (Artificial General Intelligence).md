@@ -2,7 +2,7 @@
 share: true
 ---
 
-The letters AGI stand for artificial general intelligence, a **hypothetical** type of AI that will be able to complete any intellectual task as well as humans can. [^7] AGI will make today’s most advanced AIs look like pocket calculators. [^8] AI doomers think this could engender economic chaos or even a robot apocalypse. [^9]
+The letters AGI stand for artificial **general** intelligence, a **hypothetical** type of AI that will be able to complete any intellectual task as well as humans can. [^7] AGI will make today’s most advanced AIs look like pocket calculators. [^8] The name AGI distinguishes the concept from the broader field of study of AI. It also makes it clear that true AI possesses intelligence that is both broad and adaptable. [^14] AI doomers think this could engender economic chaos or even a robot apocalypse. [^9]
 
 In broad terms, AGI typically means artificial intelligence that matches (or outmatches) humans on a range of tasks. But specifics about what counts as human-like, what tasks, and how many all tend to get waved away: AGI is AI, but better. AGI, or [artificial general intelligence](https://www.technologyreview.com/2020/10/15/1010461/artificial-general-intelligence-robots-ai-agi-deepmind-google-openai/), is one of the hottest topics in tech today. It’s also one of the most controversial. A big part of the problem is that few people agree on what the term even means. [^3]
 
@@ -59,3 +59,4 @@ Based on deep learning, it might never be possible for [LLMs](../LLM%20(Large%20
 https://www.ft.com/content/1d1cb2b3-391c-4dc8-ba5b-fedd379b7fb0
 [^12]: https://www.ft.com/content/4cecce94-48a6-4eba-b914-dd23d1e11ac9
 [^13]: https://www.ft.com/content/4cecce94-48a6-4eba-b914-dd23d1e11ac9
+[^14]: https://www.theverge.com/2018/11/27/18114362/ai-artificial-general-intelligence-when-achieved-martin-ford-book

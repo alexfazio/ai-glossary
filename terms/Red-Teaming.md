@@ -9,7 +9,7 @@ In the year 2023, [OpenAI](https://en.m.wikipedia.org/wiki/OpenAI) employed 50 a
 
 Over a span of six months, this team, consisting of experts from various fields such as chemistry, nuclear weapons, law, education, and misinformation, was tasked to qualitatively probe and adversarially test the new model in an effort to identify its weaknesses. Red-teaming is a strategy also used by other organisations like Google DeepMind and Anthropic to identify and rectify the weaknesses in their software. [^2]
 
-While [RLHF](../RLHF%20(Reinforcement%20Learning%20From%20Human%20Feedback).md) and red-teaming are crucial for AI safety, they do not completely eliminate the issue of harmful AI outputs [^2]
+While [RLHF](./RLHF%20(Reinforcement%20Learning%20From%20Human%20Feedback).md) and red-teaming are crucial for AI safety, they do not completely eliminate the issue of harmful AI outputs [^2]
 
 ### Footnotes
 

@@ -46,6 +46,14 @@ Excellent entries will also include:
 2. **Code** - python/numpy snippets, classes, or functions
 3. **Equations** - Formatted with Latex
 
+
+### Reasonably Substantive and Accurate
+
+Entries must be both reasonably substantive as well as reasonably accurate. This means that entries should be:
+
+- Substantive and well-researched (i.e. not one-liners or otherwise uninformative)
+- Accurately portray the state of research and the relevant literature (i.e. not inaccurate, misleading or false)
+
 ### Goal 🎯
 
 The goal of the glossary is to present content in the most accessible way possible, with a heavy emphasis on visuals and interactive diagrams. That said, in the spirit of rapid prototyping, it's okay to to submit a "rough draft" without visuals or code. We expect other readers will enhance your submission over time.

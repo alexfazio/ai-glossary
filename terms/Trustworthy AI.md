@@ -9,7 +9,7 @@ Deloitte’s Trustworthy AI framework introduces six key dimensions that, when c
 The Trustworthy AI framework is designed to help companies identify and mitigate potential risks related to AI ethics at every stage of the AI lifecycle. Here’s a closer look at each of the framework’s six dimensions. [^1]
 
 
-![Pasted image 20240416220310](./Pasted%20image%2020240416220310.png)
+![Pasted image 20240416220310.png](./Pasted%20image%2020240416220310.png)
 
 
 1. **Fair, not biased** - How AI makes decisions must be open to inspection and fully explainable

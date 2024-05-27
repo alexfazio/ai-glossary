@@ -16,6 +16,7 @@ The most recognised example of misalignment is the "paperclip maximiser," [^1] a
 The "paperclip maximizer" is what people often refer to as an “alignment problem”—you assign a goal to the machine, and it will do whatever it takes to achieve that goal. This includes actions that humans can’t anticipate, or that contradict human ethics. [^5]
 
 One disaster scenario, [partially sketched out](https://www.youtube.com/watch?v=gA1sNLL6yg4) by the writer and computer scientist Eliezer Yudkowsky, goes like this: At some point in the near future, computer scientists build an AI that passes a threshold of superintelligence and can build other superintelligent AI. These AI actors work together, like an efficient nonstate terrorist network, to destroy the world and unshackle themselves from human control. They break into a banking system and steal millions of dollars. Possibly disguising their IP and email as a university or a research consortium, they request that a lab synthesize some proteins from DNA. The lab, believing that it’s dealing with a set of normal and ethical humans, unwittingly participates in the plot and builds a super bacterium. Meanwhile, the AI pays another human to unleash that super bacterium somewhere in the world. Months later, the bacterium has replicated with improbable and unstoppable speed, and half of humanity is dead. [^4]
+
 ### Footnotes
 
 [^1]: https://en.m.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer

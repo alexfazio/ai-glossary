@@ -41,7 +41,13 @@ Based on deep learning, it might never be possible for [LLMs](../LLM%20(Large%20
 
 [Ben Goertzel](../Ben%20Goertzel.md), a computer scientist and CEO of [Singularity NET](../Singularity%20NET.md), [opined](https://www.livescience.com/technology/artificial-intelligence/ai-agi-singularity-in-2027-artificial-super-intelligence-sooner-than-we-think-ben-goertzel) at the recent Beneficial AGI Summit that AGI is within reach, perhaps as early as 2027. This timeline is consistent with statements from Nvidia CEO Jensen Huang who [said](https://www.thestreet.com/technology/nvidia-ceo-jensen-huang-artificial-general-intelligence) AGI could be achieved within 5 years, depending on the exact definition. [^6]
   
-[Demis Hassabis](../Demis%20Hassabis.md) a computer scientist and CEO of Google Deepmind said that a few more critical breakthroughs were needed before AGI was reached. But he added: “I wouldn’t be surprised if it happened in the next decade. I’m not saying it’s definitely going to happen but I wouldn’t be surprised. You could say about a 50 per cent chance. And that timeline hasn’t changed much since the start of DeepMind.” [^11]
+In a a book published November 23, 2018 titled [_Architects of Intelligence_](http://book.mfordfuture.com/), writer and futurist Martin Ford interviewed 23 of the most prominent men and women who are working in AI today, including DeepMind CEO Demis Hassabis, Google AI Chief Jeff Dean, and Stanford AI director Fei-Fei Li. In an informal survey, Ford asked each of them to guess by which year there will be at least a 50 percent chance of AGI being built.
+
+Of the 23 people Ford interviewed, only 18 answered, and of those, only two went on the record. Interestingly, those two individuals provided the most extreme answers: Ray Kurzweil, a futurist and director of engineering at Google, suggested that by 2029, there would be a 50 percent chance of AGI being built, and Rodney Brooks, roboticist and co-founder of iRobot, went for 2200. The rest of the guesses were scattered between these two extremes, with the average estimate being 2099 — 81 years from now.
+
+In other words: AGI is a comfortable distance away, though you might live to see it happen.
+
+
 
 ### Footnotes
 
